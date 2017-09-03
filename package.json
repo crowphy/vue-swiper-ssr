@@ -1,0 +1,27 @@
+{
+  "name": "vue-swiper-ssr",
+  "version": "1.0.0",
+  "description": "vue server side render swiper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowphy/vue-swiper-ssr.git"
+  },
+  "keywords": [
+    "vue",
+    "ssr",
+    "swiper"
+  ],
+  "author": "Crowphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crowphy/vue-swiper-ssr/issues"
+  },
+  "homepage": "https://github.com/crowphy/vue-swiper-ssr#readme"
+}
